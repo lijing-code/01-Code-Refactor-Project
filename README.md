@@ -5,32 +5,86 @@
 This is my very first HTML & CSS and Git project in GeorgiaTech Bootcamp. It is a refactoring project that I need to change the existing code in HTML and CSS to improve the web accessibility for Horiseon. The Horiseon webpage includes a header image, navigation bar, three sections for describing their business, and three sections for describing their business benefits, and a footer. Most of the content in HTML are not well-organized, and their CSS has many repetition parts because of the confusion of the class defined in HTML. My goals are improving the readability of HTML and the efficiency of CSS by consolidating the elements, class, and attributes followed semantic structure including comments for every changes. 
 
 What I did in this project:
-√ Change HTML elements in semantic structure.
-√ Make HTML elements follow logical structure with independent of styling and positioning in CSS.
-√ Combine the repetition content in CSS and change CSS element order based on HTML.
-√ Change the heading attributes order.
-√ Change the title more detailed.
-√ Delete repetitive classes and elements.
-√ Add comments on what I did to refactor the code.
-√ Create project and deploy it to GitHub.
+
+* Change HTML elements in semantic structure.
+
+* Make HTML elements follow logical structure with independent of styling and positioning in CSS.
+
+* Combine the repetition content in CSS and change CSS element order based on HTML.
+
+* Change the heading attributes order.
+
+* Change the title more detailed.
+
+* Delete repetitive classes and elements.
+
+* Add comments on what I did to refactor the code.
+
+* Create project and deploy it to GitHub.
 
 What I learned after finishing the project is the importance of logical and rational coding for web development and maintenance, and the importance of comment lines and README doc in code refactor.   
 
 ## Installation
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+
+* The URL of the deployed application:
+<href:https://lijing-code.github.io/HW-01-Code-Refactor/>
+
+* The URL of the GitHub repository:
+<href:https://github.com/lijing-code/HW-01-Code-Refactor.git>
+
 
 ## Usage
-Provide instructions and examples for use. Include screenshots as needed.
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+
+* Instructions:
     ```md
-    ![alt text](assets/images/screenshot.png)
+    ![Homework-Guide](./assets/css/README.md)
     ```
+* Semantic Elements:
+    ```md
+    ![HTML Semantic Elements](./assets/images/screenshot-01.png)
+    ```
+    ```md
+    ![Semantic Tags](./assets/images/screenshot-02.png)
+    ```
+
+
 ## Credits
-List your collaborators, if any, with links to their GitHub profiles.
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-If you followed tutorials, include links to those here as well.
+
+How to Write a Good README by Hillary Nyakundi <href:https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/>
+
+Professional README Guide
+<href:https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide>
+
+Git Push and Pull by Olivia Smith
+<href:https://www.datacamp.com/community/tutorials/git-push-pull>
+
+HTML Semantic Elements
+<href:https://www.w3schools.com/html/html5_semantic_elements.asp>
+
+HTML5 Semantic Tags: What They Are and How to Use Them! by Jason Barnard3
+<href:https://www.semrush.com/blog/semantic-html5-guide/>
+
+
+
 ## License
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
----
+MIT License
 
+Copyright (c) [2021] [Jing Li]
 
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
