@@ -2,7 +2,11 @@
 
 ## Description
 
-This is my very first HTML & CSS and Git project in GeorgiaTech Bootcamp. It is a refactoring project that I need to change the existing code in HTML and CSS to improve the web accessibility for Horiseon. The Horiseon webpage includes a header image, navigation bar, three sections for describing their business, and three sections for describing their business benefits, and a footer. Most of the content in HTML are not well-organized, and their CSS has many repetition parts because of the confusion of the class defined in HTML. My goals are improving the readability of HTML and the efficiency of CSS by consolidating the elements, class, and attributes followed semantic structure including comments for every changes. 
+This is my very first HTML & CSS and Git project using HTML and CSS. It is a refactoring project that I changed the existing code in HTML and CSS to improve the web accessibility for Horiseon. 
+
+The Horiseon webpage includes a header image, a navigation bar, three sections for describing their business, three sections for describing their business benefits, and a footer. Most of the content in their original HTML are not well-organized, and their CSS has many repetition parts because of the confusion of the class defined in HTML. 
+
+My goals are improving the readability of HTML and the efficiency of CSS by consolidating the elements, class, and attributes followed semantic structure including comments for every changes. 
 
 What I did in this project:
 
@@ -14,17 +18,20 @@ What I did in this project:
 
 * Change the heading attributes order.
 
-* Change the title more detailed.
+* Make the title more detailed.
 
-* Delete repetitive classes and elements.
+* Delete repeated classes and elements.
 
 * Add comments on what I did to refactor the code.
 
-* Create project and deploy it to GitHub.
+* Create project folder and deploy it to GitHub.
 
-What I learned after finishing the project is the importance of logical and rational coding for web development and maintenance, and the importance of comment lines and README doc in code refactor.   
+What I learned after finishing the project is the importance of logical and rational coding for web development and maintenance, and the importance of comment lines and README in code refactor.   
+
 
 ## Installation
+
+* Log in to github account.
 
 * The URL of the deployed application:
 <href:https://lijing-code.github.io/HW-01-Code-Refactor/>
@@ -47,7 +54,6 @@ What I learned after finishing the project is the importance of logical and rati
     ![Semantic Tags](./assets/images/screenshot-02.png)
     ```
 
-
 ## Credits
 
 How to Write a Good README by Hillary Nyakundi <href:https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/>
@@ -63,7 +69,6 @@ HTML Semantic Elements
 
 HTML5 Semantic Tags: What They Are and How to Use Them! by Jason Barnard3
 <href:https://www.semrush.com/blog/semantic-html5-guide/>
-
 
 
 ## License
