@@ -34,7 +34,7 @@ What I learned after finishing the project is the importance of logical and rati
 * Log in to github account.
 
 * The URL of the deployed application:
-<href:https://lijing-code.github.io/HW-01-Code-Refactor/>
+<href:https://lijing-code.github.io/01-Code-Refactor-Project/>
 
 * The URL of the GitHub repository:
 <href:https://github.com/lijing-code/01-Code-Refactor-Project>
