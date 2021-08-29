@@ -37,7 +37,7 @@ What I learned after finishing the project is the importance of logical and rati
 <href:https://lijing-code.github.io/HW-01-Code-Refactor/>
 
 * The URL of the GitHub repository:
-<href:https://github.com/lijing-code/HW-01-Code-Refactor.git>
+<href:https://github.com/lijing-code/01-Code-Refactor-Project>
 
 
 ## Usage
